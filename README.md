@@ -54,7 +54,8 @@ For any other dataset-
 
 First change the labels in config.py (for keras model) or in tf_config.py( for tensorflow model).
 Then run:
-```python main.py
+```
+python main.py
 ```
 
 #### Tested on:
@@ -63,6 +64,10 @@ Then run:
 2. Linux 16.04
 
 3. macOS High Sierra
+
+### Join the developers channel for contributions
+
+Slack: https://join.slack.com/t/annomage/shared_invite/zt-dh4ca9du-4VOcwUMCSNA6lmyG~tNUPg
 
 ### Acknowledgments
 
